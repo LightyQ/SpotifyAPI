@@ -6,7 +6,6 @@
 |------------------------------|---------------------------------------------------------------------------------------------------|
 | `ugc-image-upload`           | Upload images to Spotify on behalf of a user.                                                    |
 | `user-read-playback-state`   | Read a user’s playback state.                                                                    |
-| `user-modify-playback-state` | Control playback on a user’s devices.                                                            |
 | `user-read-currently-playing`| Read a user’s currently playing content.                                                         |
 | `playlist-read-private`      | Access a user’s private playlists.                                                               |
 | `playlist-modify-public`     | Modify a user’s public playlists.                                                                |
